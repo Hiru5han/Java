@@ -1,0 +1,15 @@
+
+public class calculator {
+
+	public static void main(String[] args) {
+		System.out.println(task1());
+		
+	}
+
+	private static int task1() {
+		int x=5;
+		int y=10;
+		return x+y;
+	}
+
+}

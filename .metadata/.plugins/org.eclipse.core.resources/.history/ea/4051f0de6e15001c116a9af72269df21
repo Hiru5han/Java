@@ -1,0 +1,10 @@
+
+public class IterationFlowchartOne {
+
+	public static void main(String[] args) {
+		for(int a = 300; a<200; a++) {
+			System.out.println("A");
+		}
+
+	}
+}

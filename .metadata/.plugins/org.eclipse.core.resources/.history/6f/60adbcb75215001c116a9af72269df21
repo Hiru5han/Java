@@ -1,0 +1,21 @@
+
+public class flowcharts {
+
+	public static boolean mybool = true;
+	public static int x = 10;
+	public static int y = 15;
+
+	public static void main(String[] args) {
+
+		task1();
+	}
+
+	public static void task1() {
+		if (mybool == true) {
+			System.out.println(x + y);
+		} else {
+			System.out.println(x * y);
+
+		}
+	}
+}

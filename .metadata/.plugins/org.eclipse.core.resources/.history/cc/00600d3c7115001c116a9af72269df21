@@ -1,0 +1,14 @@
+
+public class IterationFlowchartTwo {
+
+
+	public static void main(String[] args) {
+		for (int a = 100; a % 2 == 0;) {
+			System.out.println("-");
+		}
+		for (int a = 333; !(a % 2 == 0);) {
+			System.out.println("*");
+
+		}
+	}
+}

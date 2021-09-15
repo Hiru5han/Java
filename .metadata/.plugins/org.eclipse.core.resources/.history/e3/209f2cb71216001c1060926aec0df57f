@@ -1,0 +1,20 @@
+
+public class Arrays {
+
+	public static int[] ageArraySD = new int[10];
+		
+	public static void main(String[] args ) {
+		ageArraySD[1] = 45;
+		ageArraySD[2] = 35;
+		ageArraySD[3] = 453;
+		ageArraySD[4] = 873;
+		ageArraySD[5] = 687;
+		ageArraySD[6] = 242;
+		ageArraySD[7] = 8668;
+		ageArraySD[8] = 741;
+		ageArraySD[9] = 21;
+		ageArraySD[10] = 782;
+
+	}
+
+}

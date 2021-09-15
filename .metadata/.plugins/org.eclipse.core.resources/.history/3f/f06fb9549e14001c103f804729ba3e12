@@ -1,0 +1,22 @@
+
+public class DataTypeExcersise {
+
+	public static void main(String[] args) {
+
+		int x = 5;
+		double y = 3.21d;
+		String teststring = "test";
+
+		System.out.println("First  variable: " + (x) + ", Second  variable " + (y)
+				+ " And last but not lease: " + (teststring));
+
+	}
+
+	public static String ReturnMethod() {
+		int x = 5;
+		if (x = 5) {
+			return "Hello World";
+		}
+	}
+
+}
